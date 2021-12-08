@@ -90,6 +90,7 @@ if __name__ == '__main__':
     #input=loadinput("in.txt")
     x=resolve1(input)
     print(x[1]+x[4]+x[7]+x[8])
+    
     print(resolve2(input))
 
  
